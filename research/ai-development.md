@@ -8,16 +8,19 @@ This research focuses on three AI coding tools: GitHub Copilot, Claude Code, and
 ## Research Sources
 **Source 1: GitHub Copilot Documentation**
 - **Organization:** GitHub
+- **Year Accessed:** 2026
 - **Link:** https://docs.github.com/en/copilot
 - **Purpose:** Explains how GitHub Copilot helps programmers write code, find errors, and improve their work.
 
 **Source 2: Claude Code Overview**
 - **Organization:** Anthropic
+- **Year Accessed:** 2026
 - **Link:** https://code.claude.com/docs/en/overview
 - **Purpose:** Explains how Claude Code helps developers write, test, and fix code.
 
 **Source 3: Cursor Documentation**
 - **Organization:** Cursor
+- **Year Accessed:** 2026
 - **Link:** https://cursor.com/docs
 - **Purpose:** Explains how Cursor helps programmers build software, understand code, and fix errors.
 
