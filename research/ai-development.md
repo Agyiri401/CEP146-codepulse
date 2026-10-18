@@ -18,29 +18,29 @@ It also explores the limitations of AI coding tools and their possible impact on
 **Source 1: GitHub Copilot Documentation**
 - **Organization:** GitHub
 - **Link:** https://docs.github.com/en/copilot
-- **Relevance:** Explains how AI assists developers with code generation, debugging, and software development.
+- **Purpose:** Explains how AI assists developers with code generation, debugging, and software development.
 
 **Source 2: Claude Code Overview**
 - **Organization:** Anthropic
 - **Link:** https://code.claude.com/docs/en/overview
-- **Relevance:** Describes how Claude Code assists with programming tasks and software projects.
+- **Purpose:** Describes how Claude Code assists with programming tasks and software projects.
 
 **Source 3: Cursor Documentation**
 - **Organization:** Cursor
 - **Link:** https://cursor.com/docs
-- **Relevance:** Explains how AI-powered code editors help developers write, understand, and modify code.
+- **Purpose:** Explains how AI-powered code editors help developers write, understand, and modify code.
 
 **Source 4: The Impact of AI on Developer Productivity: Evidence from GitHub Copilot**
 - **Authors:** Sida Peng, Eirini Kalliamvakou, Peter Cihon, and Mert Demirer
 - **Year:** 2023
 - **Link:** https://arxiv.org/abs/2302.06590
-- **Relevance:** Provides experimental evidence about how AI coding assistants can improve developer productivity.
+- **Purpose:** Provides experimental evidence about how AI coding assistants can improve developer productivity.
 
 **Source 5: 2025 State of AI-Assisted Software Development**
 - **Organization:** Google (DORA)
 - **Year:** 2025
 - **Link:** https://dora.dev/research/2025/dora-report/
-- **Relevance:** Examines AI adoption, productivity, software delivery, and the challenges of using AI in development teams.
+- **Purpose:** Examines AI adoption, productivity, software delivery, and the challenges of using AI in development teams.
 
 ---
 
