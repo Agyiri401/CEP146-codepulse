@@ -1,10 +1,9 @@
+
 ---
 
-# AI Software Development
+# AI-Assisted Software Development
 
 ## How AI Is Changing the Software Industry
-
-<br>
 
 **AI Coding Tools · Adobe vs. ArtCraft**
 
@@ -12,87 +11,78 @@
 
 # How Does AI Help Programmers?
 
-<div class="grid">
-</div>
-
 ### 01 — GitHub Copilot
 
-Suggests code and explains programming problems.
+Suggests code and helps programmers solve coding problems.
 
 ### 02 — Claude Code
 
-Helps write, change, and fix code.
+Helps developers write, change, and fix code.
 
 ### 03 — Cursor
 
-Helps developers edit code and build features.
-
-<br>
+Helps developers edit code and build software features.
 
 **AI can save time and reduce repetitive work.**
 
 ---
 
+# AI Can Make Mistakes
+
+AI coding tools are useful, but they are not perfect.
+
+- AI may generate incorrect code.
+- AI-generated code may have security problems.
+- Developers may depend on AI too much.
+- Human testing and review are still important.
+
+**AI helps developers, but people must check its work.**
+
+---
+
 # Adobe vs. ArtCraft
 
-| ADOBE | ARTCRAFT |
-|---|---|
-| Professional creative apps | Free, open-source alternatives |
-| Paid subscriptions | Free access |
-| AI features in existing apps | AI-assisted development |
-| Mature professional workflows | Still under development |
+## Adobe Creative Cloud
 
-<br>
+- Includes Photoshop, Illustrator, Premiere Pro, and other tools.
+- Uses a subscription model.
+- Offers AI features such as Firefly and Generative Fill.
 
-**The big question:** Can AI make software development more accessible?
+## ArtCraft
+
+- An open-source project created by Brandon Thomas.
+- Aims to provide alternatives to several Adobe applications.
+- Uses Rust and reportedly uses AI-assisted development.
+
+**Both show how AI may affect creative software.**
 
 ---
 
 # Can ArtCraft Replace Adobe?
 
-## Not yet.
+**Not yet.**
 
-- Some image formats and saving features have problems.
-- FilmCraft lacks important editing features.
-- Some audio functions have problems.
-- Several apps are still in early development.
+ArtCraft is still developing, and it has limitations.
 
-<br>
+- Some professional editing features may be missing.
+- File formats and saving workflows may cause problems.
+- Some tools may not be ready for professional use.
 
-**Fast development does not guarantee quality.**
+Adobe already has a large collection of mature creative tools.
 
----
-
-# How Could AI Change the Industry?
-
-## Small Developers
-
-- Lower barriers to development
-- More opportunities to compete
-- More potential alternatives
-
-## Established Companies
-
-- Faster development
-- More pressure to innovate
-- Continued focus on quality and support
-
-<br>
-
-AI can help both small developers and large companies.
+**AI can help small teams build software, but creating a complete professional product takes time.**
 
 ---
 
-# The Future of Software
+# What Does the Future Look Like?
 
-AI may make software development easier and increase competition.
+- AI tools may help smaller teams build software faster.
+- Established companies can also use AI to improve their products.
+- AI does not guarantee better software.
+- Quality, security, and human judgment still matter.
 
-But reliable software still needs:
+## Final Thought
 
-**Human Review · Testing · Security · Support**
+**AI is a powerful tool, not a complete replacement for human developers.**
 
-<br>
-
-## Will AI make professional software more affordable?
-
-### Thank you for watching!
+The future of software will depend on how people use AI.
