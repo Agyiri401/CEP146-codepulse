@@ -1,24 +1,25 @@
+
 ---
 
-# AI-Assisted Software Development
+#AI-Assisted Software Development
 
-## How AI Is Changing the Software Industry
+##How AI Is Changing the Software Industry
 
 **AI Coding Tools · Adobe vs. ArtCraft**
 
 ---
 
-# How Does AI Help Programmers?
+#How Does AI Help Programmers?
 
-### 01 — GitHub Copilot
+###01 — GitHub Copilot
 
 Suggests code and helps programmers solve coding problems.
 
-### 02 — Claude Code
+###02 — Claude Code
 
 Helps developers write, change, and fix code.
 
-### 03 — Cursor
+###03 — Cursor
 
 Helps developers edit code and build software features.
 
@@ -26,7 +27,7 @@ Helps developers edit code and build software features.
 
 ---
 
-# AI Can Make Mistakes
+#AI Can Make Mistakes
 
 AI coding tools are useful, but they are not perfect.
 
@@ -39,15 +40,15 @@ AI coding tools are useful, but they are not perfect.
 
 ---
 
-# Adobe vs. ArtCraft
+#Adobe vs. ArtCraft
 
-## Adobe Creative Cloud
+##Adobe Creative Cloud
 
 - Includes Photoshop, Illustrator, Premiere Pro, and other tools.
 - Uses a subscription model.
 - Offers AI features such as Firefly and Generative Fill.
 
-## ArtCraft
+##ArtCraft
 
 - An open-source project created by Brandon Thomas.
 - Aims to provide alternatives to several Adobe applications.
@@ -57,7 +58,7 @@ AI coding tools are useful, but they are not perfect.
 
 ---
 
-# Can ArtCraft Replace Adobe?
+#Can ArtCraft Replace Adobe?
 
 **Not yet.**
 
@@ -73,16 +74,14 @@ Adobe already has a large collection of mature creative tools.
 
 ---
 
-<!-- _class: light -->
-
-# What Does the Future Look Like?
+#What Does the Future Look Like?
 
 - AI tools may help smaller teams build software faster.
 - Established companies can also use AI to improve their products.
 - AI does not guarantee better software.
 - Quality, security, and human judgment still matter.
 
-## Final Thought
+##Final Thought
 
 **AI is a powerful tool, not a complete replacement for human developers.**
 
@@ -90,7 +89,7 @@ The future of software will depend on how people use AI.
 
 ---
 
-# Sources
+#Sources
 
 - Adobe Creative Cloud — https://www.adobe.com/creativecloud.html
 - ArtCraft — https://github.com/ArtCraft
