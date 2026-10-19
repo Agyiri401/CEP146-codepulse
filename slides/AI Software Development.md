@@ -1,7 +1,7 @@
 
 ---
 
-# AI-Assisted Software Development
+# AI Software Development
 
 ## How AI Is Changing the Software Industry
 
