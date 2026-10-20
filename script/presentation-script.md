@@ -1,6 +1,7 @@
 # How AI Coding Tools Are Changing the Future of Software Companies
 
-## Presenter 1 — AI and Software Development
+## Presenter 1 [**Zimo Chen**] — AI and Software Development
+
 *Slides 1–2 | Approximately 50–55 seconds*
 
 ### Slide 1 — Introduction
@@ -21,7 +22,8 @@ This suggests smaller teams and independent developers may be able to accomplish
 
 ---
 
-## Presenter 2 — Industry Impact and Adobe vs. ArtCraft
+## Presenter 2 [**Ebenezer Agyri**] — Industry Impact and Adobe vs. ArtCraft
+
 *Slides 3–4 | Approximately 55–60 seconds*
 
 ### Slide 3 — Impact on Software Companies
@@ -48,7 +50,8 @@ This creates an interesting contrast: Adobe is using AI to improve the software 
 
 ---
 
-## Presenter 3 — Limitations and Conclusion
+## Presenter 3 [**Larissa Vigil**] — Limitations and Conclusion
+
 *Slides 5–6 | Approximately 55–60 seconds*
 
 ### Slide 5 — Limitations of AI-Generated Software
