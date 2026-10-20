@@ -1,7 +1,7 @@
 # How AI Coding Tools Are Changing the Future of Software Companies
 
-## Presenter 1 — AI and the Software Industry
-*Slides 1–3 | Approximately 1 minute 20 seconds*
+## Presenter 1 — AI and Software Development
+*Slides 1–2 | Approximately 50–55 seconds*
 
 ### Slide 1 — Introduction
 
@@ -19,6 +19,11 @@ According to Google's 2025 DORA report, 90% of surveyed technology professionals
 
 This suggests smaller teams and independent developers may be able to accomplish more with fewer resources, potentially lowering barriers to entering the software industry.
 
+---
+
+## Presenter 2 — Industry Impact and Adobe vs. ArtCraft
+*Slides 3–4 | Approximately 55–60 seconds*
+
 ### Slide 3 — Impact on Software Companies
 
 As developing software becomes more accessible, established companies could face increased competition from smaller developers offering affordable or open-source alternatives.
@@ -31,11 +36,6 @@ Although this research doesn't specifically examine software subscriptions, it h
 
 So what happens when people have access to cheaper alternatives?
 
----
-
-## Presenter 2 — Adobe vs. ArtCraft
-*Slides 4–6 | Approximately 1 minute 25–35 seconds*
-
 ### Slide 4 — Adobe and ArtCraft
 
 Adobe provides an interesting example of this shift.
@@ -45,6 +45,11 @@ While Adobe has been investing in generative AI features for applications such a
 ArtCraft consists of seven free, open-source alternatives to popular Adobe applications.
 
 This creates an interesting contrast: Adobe is using AI to improve the software it sells, while an independent developer is using AI to create potential competitors.
+
+---
+
+## Presenter 3 — Limitations and Conclusion
+*Slides 5–6 | Approximately 55–60 seconds*
 
 ### Slide 5 — Limitations of AI-Generated Software
 
@@ -62,6 +67,6 @@ ArtCraft demonstrates how AI-assisted development could make creating complex so
 
 What's interesting is that the same technology these companies are investing in to improve their products could also make it easier for independent developers to compete with them.
 
-Although AI-generated alternatives still have limitations, the technology is advancing rapidly. ArtCraft was only released recently, this October 2026. While open-source alternatives haven't replaced established software like adobe, projects like ArtCraft raise an important question:
+Although AI-generated alternatives still have limitations, the technology is advancing rapidly. ArtCraft was only released recently, this October 2026. While open-source alternatives haven't replaced established software like Adobe, projects like ArtCraft raise an important question:
 
 **If comparable software becomes available for free, how will established companies continue to justify the cost of their products?**
