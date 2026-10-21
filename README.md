@@ -20,7 +20,7 @@ Using **Adobe vs. ArtCraft** as a case study, we examine how AI-assisted coding 
 
 **Format:** Prerecorded presentation
 
-**Duration:** XX:XX [fill in how many minutes] minutes
+**Duration:** 02:59 minutes
 
 **YouTube Link:** [Watch Our Presentation](https://www.youtube.com/watch?v=MmVGR513AVE)
 
